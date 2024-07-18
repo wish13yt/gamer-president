@@ -4,5 +4,8 @@ A simple chromium extension: a must-have for almost every gamer. It includes all
 
 Extension Store pages (MANIFEST 2)
 https://microsoftedge.microsoft.com/addons/detail/mflbobcghfnjifgemfdcanojeikjelgg
+Extension Store pages (Manifest 3)
+https://addons.mozilla.org/en-US/firefox/addon/gamer-president/
+https://chromewebstore.google.com/detail/gamer-president/pfckofjmbebonljchcbfoogiiaddeoma
 
 Original by dhtdht020
