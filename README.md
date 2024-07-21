@@ -1,4 +1,5 @@
 ## https://github.com/Wish-Software/gamer-president
+This page has been moved to @WishSoftware. Get the newest info from the link above!
 Extension Store pages (MANIFEST 2)
 <br>
 https://microsoftedge.microsoft.com/addons/detail/mflbobcghfnjifgemfdcanojeikjelgg
